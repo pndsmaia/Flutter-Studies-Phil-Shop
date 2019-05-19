@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610774622313",
+    "firebase_url": "https://philshop-4ae09.firebaseio.com",
+    "project_id": "philshop-4ae09",
+    "storage_bucket": "philshop-4ae09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610774622313:android:f60e5493929f7f4c",
+        "android_client_info": {
+          "package_name": "br.com.philipemaia.phil_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610774622313-a670n7hmfangkhkmb1c3ui2qg7q8ppfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJB80H8Hdte8Pl8Wghqq19AS_NL6iLVFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610774622313-a670n7hmfangkhkmb1c3ui2qg7q8ppfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

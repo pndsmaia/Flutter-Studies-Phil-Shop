@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:phil_shop/screens/home_screen.dart';
 
 void main() => runApp(MyApp());
 
@@ -10,7 +11,10 @@ class MyApp extends StatelessWidget {
       title: "Phil's Store",
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        primaryColor: Color.fromARGB(255, 4, 125, 141),
       ),
+      debugShowCheckedModeBanner: false,
+      home: HomeScreen(),
     );
   }
 }
